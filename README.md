@@ -14,6 +14,8 @@
 
 - 💬 Lets discuss about **Deep Learning & Machine Learning**
 
+- ✨ My dream is to put my skills and knowledge gained into use and make something productive that can solve problems our world is dealing with
+
 - 📫 Reach me out on **augustinmadanu7@gmail.com**
 
 - 🐤 Fun Fact: Engineering student but happy (Trying to be funny)
