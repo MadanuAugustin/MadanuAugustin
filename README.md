@@ -1,5 +1,5 @@
 ![MasterHead](https://media.licdn.com/dms/image/D5612AQEo4_5OKiCqDQ/article-cover_image-shrink_600_2000/0/1700207735397?e=2147483647&v=beta&t=5yJsHZ-_9jkTfHPIJNhv_3f2kocPFSum8OCUsmXEmA8)
-<h1 align="center">Hi 👋, I'm Augustin</h1>
+<h1 align="center">Hi there, this is Augustin 👋</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
 <img align = "right" alt ="Coding" width="400" src="https://camo.githubusercontent.com/8a9c7f854df987a0b488caf7b4ca6fb56e368e1a0b85602574da94c19d1c2d2e/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966">
 
