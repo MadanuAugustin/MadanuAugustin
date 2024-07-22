@@ -7,13 +7,17 @@
 
 <p align="left"> <a href="https://twitter.com/augustin__07" target="blank"><img src="https://img.shields.io/twitter/follow/augustin__07?logo=twitter&style=for-the-badge" alt="augustin__07" /></a> </p>
 
-- 🔭 I’m currently working on [Wafer defect detection in semiconductors](https://github.com/MadanuAugustin/Wafer_defect_classification_using_transfer_learning.git)
+- 💙 I love teaching Artifical Neurons to learn
+
+- 🧑‍🤝‍🧑 Looking for an organization where I can contribute and develop my skills
 
 - 🌱 I’m currently learning **Full Stack Artificial Intelligence(AI)**
 
-- 💬 Ask me about **Deep Learning, Machine Learning**
+- 💬 Lets discuss about **Deep Learning & Machine Learning**
 
-- 📫 How to reach me **augustinmadanu7@gmail.com**
+- 📫 Reach me out on **augustinmadanu7@gmail.com**
+
+- 🐤 Fun Fact: Engineering student but happy (Trying to be funny)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
